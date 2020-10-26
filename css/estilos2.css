@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.inicio{
+  width: 98%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid blue;
+}
+.cabecera{
+  width: 100%;
+
+  border: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header{
+  width: 90%;
+  height: 150px;
+  border: 1px solid red;
+  display: flex;
+
+
+}
+.logo{
+width: 80px; height: 140px;
+border: 1px solid green;
+display: flex;
+
+}
+.sub_menu_1{
+  width: 98%;
+
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-around;
+
+}
+.sub_menu_0{
+  width: 90%;
+  height: 50px;
+  border: 1px solid orange;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.items{
+  text-decoration: none;
+}

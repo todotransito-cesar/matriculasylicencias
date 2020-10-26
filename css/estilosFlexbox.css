@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: #4cb5f5;
+   
+    display: flex;
+    flex-wrap: wrap;
+
+    
+    
+   
+    
+}
+.item{
+    color: #fff;
+    width: 250px;
+    
+    border: 1px solid #fff;
+   
+    background: #b3c100;
+    
+
+}
